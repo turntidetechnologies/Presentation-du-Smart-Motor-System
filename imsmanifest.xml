@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6kYvBKCjf6V_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Présentation du Smart Motor System</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">This lesson provides an overview of how the Turntide Smart Motor System integrates into existing HVAC rooftop units (RTU). 
+
+It starts with the option to review the basics of thermostat and RTUs, or to skip ahead to the Turntide products overview for those familiar with HVAC. </langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Présentation_du_Smart_Motor_System_ORG">
+    <organization identifier="Présentation_du_Smart_Motor_System_ORG">
+      <title>Présentation du Smart Motor System</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__6kYvBKCjf6V_course_id_RES">
+        <title>Présentation du Smart Motor System</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6kYvBKCjf6V_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5WzotPJVgMz.png" />
+      <file href="mobile/6UPfXz1Kppc.png" />
+      <file href="mobile/6mI9bjb2FEa.png" />
+      <file href="mobile/6EEoE5b9GKr.png" />
+      <file href="mobile/6HRea9ZsYSn.png" />
+      <file href="story_content/5qJFKTvbjhL_44100_48_0.mp3" />
+      <file href="story_content/6Pvnx8tKqTq_44100_48_0.mp3" />
+      <file href="mobile/5tRvpgzlqSN.png" />
+      <file href="mobile/5hLy4vhqCuJ.png" />
+      <file href="story_content/6jZLGZ9kG7M_44100_48_0.mp3" />
+      <file href="mobile/6QXVoFKzJHZ.png" />
+      <file href="story_content/5V9MPzHYEEL_44100_48_0.mp3" />
+      <file href="mobile/5r0wHaKj761_80.jpg" />
+      <file href="story_content/6Sb6eXja6xV_44100_48_0.mp3" />
+      <file href="mobile/5cK3960O5L8_80.jpg" />
+      <file href="story_content/65p0Ppb33E0_44100_48_0.mp3" />
+      <file href="story_content/6700HXlM7Ds_44100_48_0.mp3" />
+      <file href="story_content/5cwXjK6i31P_44100_48_0.mp3" />
+      <file href="story_content/6rUgWcC18rP_44100_48_0.mp3" />
+      <file href="mobile/6V38qdRNh3s_80.jpg" />
+      <file href="mobile/5dzHEv2gege.png" />
+      <file href="story_content/6pMg6tX9meO_44100_48_0.mp3" />
+      <file href="story_content/5rN7rOP7RNk_44100_48_0.mp3" />
+      <file href="mobile/6M3xG5k3qW7.png" />
+      <file href="story_content/60tsh7UkS5d_44100_48_0.mp3" />
+      <file href="story_content/6ksHDVg9vak_44100_48_0.mp3" />
+      <file href="mobile/6XLr7WwLxR6.png" />
+      <file href="story_content/6OUDspdZ5rY_44100_48_0.mp3" />
+      <file href="story_content/5VObd8C26EV_44100_48_0.mp3" />
+      <file href="story_content/6FW6UAObICt_44100_48_0.mp3" />
+      <file href="story_content/6h20CTumIgQ_44100_48_0.mp3" />
+      <file href="story_content/6fE4smPEGxa_44100_48_0.mp3" />
+      <file href="mobile/6YR3ed63BS1.png" />
+      <file href="mobile/6OasYEzb0TQ.png" />
+      <file href="story_content/6j5ESUlQj8H_44100_48_0.mp3" />
+      <file href="story_content/5shWRheWfBx_44100_48_0.mp3" />
+      <file href="mobile/6nuj8eSSobi.png" />
+      <file href="mobile/6kBlzMA5Ydw.png" />
+      <file href="story_content/5lY5J8mwNVK_44100_48_0.mp3" />
+      <file href="mobile/5bj0Hr10os3_80.png" />
+      <file href="mobile/6M7vTzKTTyP_80.png" />
+      <file href="story_content/63ZX2eRyXiO_44100_48_0.mp3" />
+      <file href="story_content/5UquSlElT9N_44100_48_0.mp3" />
+      <file href="story_content/5cMYitL8Fqy_44100_48_0.mp3" />
+      <file href="mobile/5n2Vne92iuE.png" />
+      <file href="story_content/6cIGzJMbgSa_44100_48_0.mp3" />
+      <file href="story_content/5jObGNRDmcu_44100_48_0.mp3" />
+      <file href="mobile/5ztEuUx3yEA.png" />
+      <file href="mobile/5aItcfvwRNa.png" />
+      <file href="mobile/6Z1zYWxX3me.png" />
+      <file href="mobile/6ksEPBJVbhL.png" />
+      <file href="mobile/6DPnZBcv9Y8.png" />
+      <file href="story_content/6WUysOfeOp6_44100_48_0.mp3" />
+      <file href="mobile/5xNg8YefSFn.png" />
+      <file href="mobile/6OEoeDi1Cc0.png" />
+      <file href="story_content/5ZLlDkPHHSb_44100_48_0.mp3" />
+      <file href="story_content/6Q2e9DVYCgl_44100_48_0.mp3" />
+      <file href="story_content/6WbFPPu8YDV_44100_48_0.mp3" />
+      <file href="story_content/5qUnfdftzYJ_44100_48_0.mp3" />
+      <file href="story_content/63mKeN1egCT_44100_48_0.mp3" />
+      <file href="story_content/6NCLtu4dXjy_44100_48_0.mp3" />
+      <file href="story_content/5mgmFvRWsxR_44100_48_0.mp3" />
+      <file href="story_content/6oOs59YZkul_44100_48_0.mp3" />
+      <file href="story_content/66fggmGFdPM_44100_48_0.mp3" />
+      <file href="story_content/66YPLsysN2u_44100_48_0.mp3" />
+      <file href="story_content/6mwplXl6tRy_44100_48_0.mp3" />
+      <file href="story_content/6ZKjQklifdh_44100_48_0.mp3" />
+      <file href="story_content/6jbbb6AjTyZ_44100_48_0.mp3" />
+      <file href="story_content/5ZF9qvjQBo3_44100_48_0.mp3" />
+      <file href="story_content/6NLUC1CBMbU_44100_48_0.mp3" />
+      <file href="story_content/5mvYAdIW6KV_44100_48_0.mp3" />
+      <file href="mobile/6NxgAcf3el3.png" />
+      <file href="mobile/6raygiFmQtz.png" />
+      <file href="story_content/5t86hdUtyGw_44100_48_0.mp3" />
+      <file href="mobile/69bNJq7fZkP_80_P_0_0_950_534.png" />
+      <file href="mobile/5xpo90qGTMx.png" />
+      <file href="story_content/5fgcnmreVM7_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6AXnPltlXXE.jpg" />
+      <file href="mobile/Shape5rW1oyg3Q0v.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bJUF7P704N.js" />
+      <file href="html5/data/js/5lrYWM1qryH.js" />
+      <file href="html5/data/js/5mzg7tUo8RU.js" />
+      <file href="html5/data/js/5otgib5SI2D.js" />
+      <file href="html5/data/js/5rHKnGc0stH.js" />
+      <file href="html5/data/js/5X9JC7KOMzV.js" />
+      <file href="html5/data/js/5yp2q7RZWCD.js" />
+      <file href="html5/data/js/60DjcvsjhkJ.js" />
+      <file href="html5/data/js/64vgXZzn9LS.js" />
+      <file href="html5/data/js/64whC276CAX.js" />
+      <file href="html5/data/js/65SOFGXG86e.js" />
+      <file href="html5/data/js/67IyE3Uif2M.js" />
+      <file href="html5/data/js/6DBXiCtsQnm.js" />
+      <file href="html5/data/js/6ddo0KtOUHr.js" />
+      <file href="html5/data/js/6DfauMLeQXr.js" />
+      <file href="html5/data/js/6fbfjXx7ZE1.js" />
+      <file href="html5/data/js/6fExZKXQ2sr.js" />
+      <file href="html5/data/js/6fYdiHpITmQ.js" />
+      <file href="html5/data/js/6j1ptI0GptA.js" />
+      <file href="html5/data/js/6Kmvq0RnE97.js" />
+      <file href="html5/data/js/6lpUi8h6Uzi.js" />
+      <file href="html5/data/js/6ma2WqgW8F2.js" />
+      <file href="html5/data/js/6MsP0GKtty0.js" />
+      <file href="html5/data/js/6N5zohVl1Yt.js" />
+      <file href="html5/data/js/6oQHzjVV9fa.js" />
+      <file href="html5/data/js/6PsZiCFUlg1.js" />
+      <file href="html5/data/js/6rpLKjbrtv9.js" />
+      <file href="html5/data/js/6U8UiFOyUlV.js" />
+      <file href="html5/data/js/6ZkpMGVUUAy.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
